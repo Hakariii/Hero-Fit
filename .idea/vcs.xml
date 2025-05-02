@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$USER_HOME$/DataspellProjects/NautilusTrader_Bybit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../erm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../erm/HeroFit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$USER_HOME$/Hero-Fit" vcs="Git" />
   </component>
 </project>
